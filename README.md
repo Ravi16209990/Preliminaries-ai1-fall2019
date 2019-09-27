@@ -1,4 +1,8 @@
 # Preliminaries-ai1-fall2019
+Most boring lecture I have ever had.
+Learning Machine learning is fun but Is it worth learning?
+And if so what cool can be done with it.
+
 Git and Baby Python Preliminaries for Ai1, Fall 2019
 
 1. Students should install [Anaconda Python 3.7 version](https://www.anaconda.com/distribution/#download-section)
